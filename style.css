@@ -47,6 +47,7 @@ html, body{
 }
 .blocktext{
     width: fit-content;
+    margin-right: 40px;
 }
 .blocktext h5{
     margin-top: 20px;
